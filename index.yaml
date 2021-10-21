@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   dev2-carapuce-helm:
   - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2021-10-21T08:12:46.471331693Z"
+    description: A Helm chart for Kubernetes
+    digest: 9939e0b55246087c1f91bd2f395ad2f8557df66bee77a45605fdd636ee8a24d0
+    name: dev2-carapuce-helm
+    type: application
+    urls:
+    - https://github.com/one-kubernetes/dev2-helm-charts/releases/download/dev2-carapuce-helm-3.0.0/dev2-carapuce-helm-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v2
     appVersion: 2.0.0
     created: "2021-10-21T08:11:20.7974477Z"
     description: A Helm chart for Kubernetes
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://github.com/one-kubernetes/dev2-helm-charts/releases/download/dev2-chenipan-helm-0.1.0/dev2-chenipan-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-21T08:11:20.7974669Z"
+generated: "2021-10-21T08:12:46.471367793Z"
